@@ -1,8 +1,3 @@
-This directory exists to hold the file
-pregenerated/res/com/vladium/emma/rt/RTExitHook.closure, which is normally
-deposited in the out/ directory during a standard Emma Ant build, but the
-Android make-based build doesn't accommodate source-generation.
-
-This is a hack, but it's convenient to keep Emma's own build system working
-alongside Android's make-basedsystem.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2087a1b41a9563af02933c8d51ef0b6968aba6dee3c0d8f8a22bd76eff700c3f
+size 368
